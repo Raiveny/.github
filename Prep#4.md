@@ -24,11 +24,11 @@
 
 ## Domain Modeling
 
-![Domain Modeling]()
+![Domain Modeling](https://i.postimg.cc/90rZnGqH/558b9e448f1b4c19aa945886c98609e9-0001.jpg)
 
 
 
 ## Database Schema Diagram
 
-![Schema Diagram]()
-![Database ER]()
+![Schema Diagram](https://i.postimg.cc/DZ5PDvjL/image-1.png)
+![Database ER](https://i.postimg.cc/CMP4sKfV/image.png)
